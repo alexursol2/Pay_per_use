@@ -197,7 +197,7 @@ export const LandingPage = () => {
       <div className="frame-25">
         <div className="frame-6">
           <div className="frame-26">
-            <p className="text-wrapper-7">Discover Your Favorite Media NFTs</p>
+            <p className="text-wrapper-7" id="nft">Discover Your Favorite Media NFTs</p>
             <p className="text-wrapper-8">
               Browse an exclusive collection of NFTs representing captivating media content, including sports events,
               live concerts, blockbuster movies, and more.
@@ -608,7 +608,6 @@ export const LandingPage = () => {
           <div className="nav">
             <div className="nav-options">
               <div className="text-wrapper-24">Home</div>
-              <div className="text-wrapper-25">Explore</div>
               <div className="text-wrapper-25">Create</div>
               <div className="text-wrapper-25">My Profile</div>
             </div>
